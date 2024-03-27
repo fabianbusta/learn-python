@@ -1,4 +1,1 @@
-# Aprendiendo Python
-
-- [x] Tutorial Python
-- [] Tutorial Git
+# Aqui puedes guardar lo que sea
