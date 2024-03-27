@@ -7,7 +7,7 @@ else:
     print("Contador regresivo desde", numero, "hasta 0:")
     while numero >= 0:
         # Si la condición se cumple
-        print(f"n: {numero}")
+        print(numero)
         
         # Restar número al contador
         numero -= 1
